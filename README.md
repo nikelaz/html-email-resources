@@ -21,6 +21,7 @@ Buttons - https://buttons.cm/
 - Use the <strong>background attribute</strong> on <strong>td</strong>
 - Use <strong>bgcolor attribute</strong> to provide a fallback color
 - Add <strong>background inline style</strong> with fallback color and image url
+- Backgrounds generator: https://backgrounds.cm/
 
 ### Accessibility
 
