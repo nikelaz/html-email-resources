@@ -58,3 +58,5 @@ Buttons - https://buttons.cm/
 - Maizzle templating language - https://maizzle.com
 - Community - https://litmus.com/community
 - Resources - https://thebetter.email/resources
+- Target outlook using conditional comments - https://www.htmlemailcheck.com/knowledge-base/target-outlook-email-clients-using-conditional-comments
+- Responsive grids with tables examples - https://litmus.com/builder/b4262aa
