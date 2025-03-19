@@ -30,6 +30,10 @@
 
 - Keep tables quiet using <strong>role="presentation"</strong>
 
+### Layouts
+
+- [Bulletproof Email Templates](https://jsnhall.github.io/bulletproof-email-template/)
+  
 ### Table Layouts
 
 - Ignore table headers, body, footer
